@@ -13,7 +13,7 @@ deliverables: "A GitHub Issue"
 - There are two PDFs:
   `layout-to-code.pdf`
   — Just the plain website wireframe, by itself
-  `layout-to-code-numbers.pdf`
+  `layout-to-code-numbered.pdf`
   — A messier version showing each numbered tag
 - _Submit your HTML tag choices with explanations._
 
