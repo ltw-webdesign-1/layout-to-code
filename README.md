@@ -25,7 +25,7 @@ On GitHub’s website, on your forked repository, create an Issue labeled “Sol
 
 **Record yourself speaking the answers—and upload/drop it into the GitHub Issue body.** (You’ll have to _zip_ the audio file before GitHub will allow you to drop it into an Issue.)
 
-Read out the number, the semantically appropariate HTML tag & your explanation. Here’s an example of what the recording would sound like (using different content).
+Read out the number, the semantically appropriate HTML tag & your explanation. Here’s an example of what the recording would sound like (using different content).
 
 <audio controls src="https://assets.learn-the-web.algonquindesign.ca/web-design-1/layout-to-code.mp3"></audio>
 
