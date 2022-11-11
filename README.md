@@ -27,6 +27,6 @@ On GitHub’s website, on your forked repository, create an Issue labeled “Sol
 
 Read out the number, the semantically appropriate HTML tag & your explanation. Here’s an example of what the recording would sound like (using different content).
 
-<audio controls src="https://assets.learn-the-web.algonquindesign.ca/web-design-1/layout-to-code.mp3"></audio>
+<audio controls src="https://assets.learntheweb.courses/web-design-1/layout-to-code.mp3"></audio>
 
 **Don’t forget to tag your teacher!**
