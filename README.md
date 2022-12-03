@@ -12,9 +12,9 @@ deliverables: "A GitHub Issue"
 - Using the two PDFs, determine the most semantically appropriate HTML tag for each numbered content
 - There are two PDFs:
   `layout-to-code.pdf`
-  — Just the plain website wireframe, by itself
+  — Just the plain website wireframe, by itself
   `layout-to-code-numbered.pdf`
-  — A messier version showing each numbered tag
+  — A messier version showing each numbered tag
 - _Submit your HTML tag choices with explanations._
 
 ---
